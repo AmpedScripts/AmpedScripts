@@ -11,7 +11,7 @@
 - 🏫 I study Software Developer course
 ### Connect with me:
 
-[<img align="left" alt="Amped | Discord" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/discord.svg" />][discord]
+[![Discord](https://img.shields.io/badge/Discord-Amped%235557-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/670792646494650408)
 
 <br />
 
